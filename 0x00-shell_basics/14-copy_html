@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -ru $(basename `pwd`)/*.html $(pwd)
+cp -un *.html ../
